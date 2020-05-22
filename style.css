@@ -1,0 +1,33 @@
+* {
+	text-align: center;
+	color:white;
+	font-family:"Times New Roman";
+}
+body {
+	background-color: black;
+	background-size: 1400px 1000px;
+	background-position:center;
+
+}
+h2 {
+	border: 2px dashed white;
+	cursor:pointer;
+	color:white;
+	font-family:'Pacifico', cursive;
+	font-size:60px;
+}
+li {	
+	list-style:none;
+	display:inline-block;
+}
+div {
+	display:inline-block;	// displays all elements in a single line
+	padding:5px 20px;
+	width:200px;
+	height:55px;
+}
+a {
+	text-decoration:none;
+	font-family:'Pacifico', cursive;
+	font-size: 30px;
+}
