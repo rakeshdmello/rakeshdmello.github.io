@@ -1,8 +1,6 @@
-/** {
-	text-align: center;
+* {
 	color:white;
-	font-family:"Times New Roman"; 
-} */
+} 
 body {
 	background-color: black;
 	background-size: 1400px 1000px;
@@ -17,6 +15,12 @@ h2 {
 	font-family:'Pacifico', cursive;
 	font-size:60px;
 }
+.indexul {
+	list-style:none;
+	display:inline-block;
+	float:left;
+	clear:both;
+}
 li::before{	
 	list-style:none;
 	display:inline-block;
@@ -29,6 +33,12 @@ div {
 	color:white;
 	font-family: 'Work Sans', sans-serif;
 }
+.indexcontainer{
+	display:inline-block;	// displays all elements in a single line
+	padding:5px 20px;
+	width:200px;
+	height:55px;
+}
 a {
 	text-decoration:none;
 	font-family:'Pacifico', cursive;
@@ -36,4 +46,12 @@ a {
 }
 p {
 	color:white;
+}
+footer {
+	clear:both;
+	text-align:left;
+}
+.footerlink {
+	font-size:20px;
+	color:purple;
 }
