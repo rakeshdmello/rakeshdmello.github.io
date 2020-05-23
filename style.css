@@ -28,9 +28,12 @@ h1 {
 	border-width:2px;	
 }
 .buffer1{
-	height: 2rem;
+	height: 1rem;
 }
 .buffer2 {
 	 /* height:150px; */
-	 height: 24rem;
+	 height: 22rem;
+}
+.buffer3 {
+	height:4rem;
 }
