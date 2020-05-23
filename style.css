@@ -27,13 +27,10 @@ h1 {
 	border-color: #ee4b08;
 	border-width:2px;	
 }
-.buffer1{
-	height: 1rem;
-}
-.buffer2 {
+.buffer1 {
 	 /* height:150px; */
 	 height: 22rem;
 }
-.buffer3 {
+.buffer2 {
 	height:4rem;
 }
