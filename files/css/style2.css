@@ -52,3 +52,6 @@ td {
 .trivia {
 	text-align:left;
 }
+div {
+	border:1 px solid black;
+}
